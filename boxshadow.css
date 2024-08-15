@@ -1,0 +1,16 @@
+h1{
+    background-color: #FF8A8A;
+    color: blue;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    text-decoration: dotted  yellowgreen;
+}
+div{
+    box-shadow: 12px 3px 4px brown;
+    background-color: #FF8A8A;
+    word-spacing: 30px;
+    text-wrap: wrap;
+    letter-spacing: 20px;
+    width: 400px;
+}
